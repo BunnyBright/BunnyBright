@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @BunnyBright
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Anniversary message
+def anniversary_message():
+    message = """
+    You have my heart, Mr. Vilho.
+    Happy anniversary, Baba.
+    I love you so much.
+    """
+    print(message)
 
-<!---
-BunnyBright/BunnyBright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Call the function to display the message
+anniversary_message()
